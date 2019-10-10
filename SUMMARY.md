@@ -1,4 +1,4 @@
-* [目录](README.md)
+* [简介](README.md)
 * [算法](Algorithm/README.md)
   * [排序算法](Algorithm/sorting.md)
   * [TopK算法](Algorithm/TopK.md)
